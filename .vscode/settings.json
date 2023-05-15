@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/43ec05ba-54fe-4cb5-a12e-cd103229efe2/resourceGroups/website-rvo/providers/Microsoft.Web/sites/website-rvo",
+    "appService.deploySubpath": "."
+}
