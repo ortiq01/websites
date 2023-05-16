@@ -1,0 +1,27 @@
+{
+    "remotePath": "./httpdocs",
+    "host": "62.129.139.208",
+    "username": "rvorotatingservices.n_y3j9x8b03e",
+    "password": "Annika1908!",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": "C:\Users\ortiq\OneDrive\Documents\GitHub\websites\websites"
+    }
+}
